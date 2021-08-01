@@ -1,0 +1,168 @@
+.row.beauty_top {
+    border-top: outset;
+    border-bottom: inset;
+    padding: 15px 0px 15px 44px;
+}
+.row.beauty {
+    border-bottom: inset;
+    padding: 15px 0px 15px 44px;
+}
+
+.row.beauty1 {
+    padding: 15px 0px 15px 44px;
+}
+
+/* --------------------------- */
+h2.help{
+    position: absolute;
+    margin-top: -31px;
+    left: 0px;
+    background: rgb(252, 252, 252);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0px 6px 0px 6px;
+}
+
+.choose{
+    font-family: -webkit-body;
+    padding-bottom: 10px;
+}
+
+.back_property{
+    float: right;
+    color: #f8f9fa;
+    background-color: #dc3545;
+    width: 97px;
+    height: 37px;
+}
+
+/* show single property */
+.space{
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+.small_space{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+img.single_photo {
+    width: 670px;
+    height: 540px;
+}
+.title_design {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* h2.h2-space {
+    margin-top: 60px;
+    padding-top: 10px;
+} */
+
+.gallery{
+    width: 818px !important;
+     margin-left: -160px;
+}
+/* multi image */
+.krajee-default.file-preview-frame .kv-file-content {
+    width: 240px;
+    height: 238px;
+}
+img.file-preview-image.kv-preview-data {
+    width: 240px !important;
+    height: 240px !important;
+}
+
+button.btn.btn-danger.btn-sm.given {
+    /* margin-right: 20px;
+    height: 26px;
+    position: absolute;
+    margin-top: -26px; */
+    position:absolute; margin-left:20px; margin-top:-26px;
+}
+
+.card.bg-gradient-default.dashboard_track {
+    height: 310px;
+}
+.small_space_select {
+    padding: 9px;
+}
+
+/* start about us*/
+.about-head{
+        font-size: 2.288rem;
+        background-color: silver;
+        line-height: 2.288rem;
+        padding: 15px;
+}
+.about-head2{
+    font-size: 2rem;
+    background-color: silver;
+    line-height: 2.288rem;
+    padding: 15px;
+}
+
+.about-counting{
+    background-color: lavender;
+    margin: 20px 0px 35px 0px;
+    padding: 15px 10px 15px 10px;
+    font-size: x-large;
+}
+
+.about-parag {
+    font-size: large;
+    /* background-color: lavender; */
+    padding: 10px 10px 10px 48px;
+    border-bottom: inset;
+}
+.about-parag1 {
+    font-size: large;
+    /* background-color: lavender; */
+}
+
+/*end*/
+
+select#category_id {
+    padding-top: 8px;
+}
+select#used {
+    padding-top: 8px;
+}
+select#status {
+    padding-top: 8px;
+}
+select#feature_id {
+    padding-top: 8px;
+}
+select.form-control.choose_filter {
+    padding-top: 5px;
+}
+
+
+
+
+
+/* ----------------------  Last Edition  -------------------------------- */
+.space_top{
+    margin-top: 20px;
+}
+select.form-control.choose_filter:not([size]):not([multiple]) {
+    height: calc(2.8rem + 8px);
+    padding-top: 10px;
+}
+
+select.form-control.filter_edit:not([size]):not([multiple]) {
+    height: calc(2.8rem + 8px);
+    padding-top: 10px;
+    margin-top: -8px;
+}
+
+.editt{
+    padding-left: 35px;
+}
+
